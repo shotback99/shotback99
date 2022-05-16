@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shotback99
 - 👀 I’m interested in Simulations and Physics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at shotback99@gmail.com
 
 <!---
